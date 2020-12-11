@@ -1,0 +1,87 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+  }
+  h1{
+      text-align: center;
+      color: gold;
+      text-decoration: underline;
+      text-shadow: 2px 2px 3px black;
+  }
+
+  body{
+        background-image: url('aaaa.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        color: white;
+        
+        
+        
+  }
+
+  label{
+      color: white;
+      margin-right: 50px;
+      margin-bottom: 20px;
+      display: inline-block;
+      width: 80px;
+     
+
+  }
+      
+  input{
+    display: inline-block;
+    
+  }
+  .button{
+    text-align: center;
+
+  }
+  button:hover {
+    background-color: red;
+  }
+  button:focus{
+    background-color: green;
+  }
+
+  .biodata{
+    border: 10px solid red;
+    text-align: right;
+    min-width: 30px;
+    max-width: 800px;
+    margin-left: 1100px;
+    min-height: 300px;
+    max-height: 1000px;
+    position: absolute;
+    bottom: 200px;
+    right: 100px;
+    top: 300px;
+    height: 550px;
+    padding: 15px;
+
+  }
+
+  .name{
+    text-shadow: 2px 2px 3px black;
+  }
+
+  li{
+    display: inline;
+    padding: 50px;
+    font-size: 30px;
+  
+  }
+
+  .pi{
+      /* position: absolute;
+      bottom: 200px;
+      right: 100px;
+      top: 300px; */
+
+  }
+
+    
+
