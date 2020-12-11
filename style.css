@@ -1,0 +1,28 @@
+body{
+    background-color: darkmagenta;
+    opacity: 0.8;
+}
+/* h1{
+    color: blue;
+    background-color: yellow; 
+}
+
+p{
+    color: ghostwhite;
+}
+label{
+    color: white;
+}
+
+table{
+    color: white;
+
+}
+
+li{
+    color: white;
+} */
+
+*{
+    color: white;
+}
